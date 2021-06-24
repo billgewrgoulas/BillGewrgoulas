@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m interested in software engineering ...
+- 🔭 I’m interested in software engineering.
 - 👯 I’m looking to collaborate with anyone on any project.
 - 💬 Ask me about anything, If i am alive i will answer within seconds 😉.
 - ⚡ Fun fact: I like running and weight lifting.
@@ -38,4 +38,10 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=billgewrgoulas&theme=tokyonight&show_icons=true)
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=billgewrgoulas&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="billgewrgoulas" />  
+
+### 😜Here's a Joke for you:
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
+----
+
 
