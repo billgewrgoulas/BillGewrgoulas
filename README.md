@@ -12,13 +12,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything, If i am alive i will answer within seconds 😉.
 - ⚡ Fun fact: I like running and weight lifting.
 <br>
-
-### ⚙️ &nbsp; GitHub Analytics
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=billgewrgoulas&theme=tokyonight&show_icons=true)
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=billgewrgoulas&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="billgewrgoulas" />  
-
-<br>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
@@ -38,6 +31,13 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
+
+<br>
+
+### ⚙️ &nbsp; GitHub Analytics
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=billgewrgoulas&theme=tokyonight&show_icons=true)
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=billgewrgoulas&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="billgewrgoulas" />  
 
 <br>
 
