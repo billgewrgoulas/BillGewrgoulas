@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m interested in software engineering.
 - 👯 I’m looking to collaborate with anyone on any project.
-- 💬 Ask me about anything, If i am alive i will answer within seconds 😉.
+- 💬 Ask me about anything, I will try to answer asap 😉.
 - ⚡ Fun fact: I like running and weight lifting.
 <br>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
