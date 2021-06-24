@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=billgewrgoulas&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="billgewrgoulas" />
 
 <div align="center">
-  <br><br>
-  <i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
-  <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
-</div>
+</br>
+</br>
+<i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
