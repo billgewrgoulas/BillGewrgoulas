@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate with anyone on any project.
 - 💬 Ask me about anything, If i am alive i will answer within seconds 😉.
 - ⚡ Fun fact: I like running and weight lifting.
-<br><br>
+<br>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 
-<br><br>
+<br>
 
 ### ⚙️ &nbsp; GitHub Analytics
 
