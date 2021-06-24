@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=billgewrgoulas&theme=tokyonight&show_icons=true)
 
+- name: Profile Readme Stats
+  uses: teoxoy/profile-readme-stats@v1.2
+
+
