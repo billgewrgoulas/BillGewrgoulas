@@ -37,9 +37,9 @@ Here are some ideas to get you started:
 ### ⚙️ &nbsp;GitHub Analytics
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=billgewrgoulas&theme=tokyonight&show_icons=true)
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=billgewrgoulas&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="billgewrgoulas" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=billgewrgoulas&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="billgewrgoulas" />  
 
-### 😜Here's a Joke for you:
+### 😜Here's a Joke for you:  
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 ----
