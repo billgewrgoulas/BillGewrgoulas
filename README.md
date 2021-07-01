@@ -9,6 +9,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m interested in software engineering.
 - 👯 I’m looking to collaborate with anyone on any project.
+- 🌱 I’m currently learning Qt.
 - 💬 Ask me about anything, I will try to answer asap 😉.
 - ⚡ Fun fact: I like running and weight lifting.
 <br>
