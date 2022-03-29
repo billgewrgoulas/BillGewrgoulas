@@ -5,7 +5,7 @@
 <br>
 
 ### ⚙️ &nbsp; GitHub Analytics
-<p align="center">
+<p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=billgewrgoulas&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="billgewrgoulas" />  
  
 </p>
@@ -13,7 +13,7 @@
 <br>
 
 ### 😜Here's a Joke for you:
-<p align="center">
+<p align="left">
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </p>
 
