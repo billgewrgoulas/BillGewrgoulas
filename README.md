@@ -2,7 +2,6 @@
 
 - 🔭 I’m interested in software engineering.
 - ⚡ Fun fact: I like running and weight lifting.
-<br>
 
 ### ⚙️ &nbsp; GitHub Analytics
 <p align="left">
@@ -22,9 +21,3 @@
 <p align="center">
   <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="center"/>
 </p>
-
-
-
-
-
-
