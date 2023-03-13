@@ -4,7 +4,7 @@
 - ⚡ Fun fact: I like running and weight lifting.
 
 ### ⚙️ &nbsp; GitHub Analytics
-<p align="left">
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=billgewrgoulas&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="billgewrgoulas" />  
  
 </p>
@@ -12,7 +12,7 @@
 <br>
 
 ### 😜Here's a Joke for you:
-<p align="left">
+<p align="center">
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </p>
 
