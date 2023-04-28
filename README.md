@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m software engineer.
-- I am currently learning React.js
+- 🔭 I am currently learning React.js
 - ⚡ Fun fact: I like running and weight lifting.
 
 ### ⚙️ &nbsp; GitHub Analytics
