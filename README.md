@@ -1,6 +1,5 @@
-### Hi there 👋
+### Hi there I’m Bill👋
 
-- 🔭 I’m Bill.
 - 🔭 I'm currently learning React.js
 - ⚡ Fun fact: I like running and weight lifting.
 
