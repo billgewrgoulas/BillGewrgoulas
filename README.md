@@ -1,6 +1,6 @@
 ### Hi there I’m Bill👋
 
-- 🔭 I'm currently learning React.js
+- 🔭 I'm currently working with React.js and TypeScript.
 - ⚡ Fun fact: I like running and weight lifting.
 
 ### ⚙️ &nbsp; GitHub Analytics
