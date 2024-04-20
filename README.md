@@ -1,6 +1,6 @@
 ### Hi there I’m Bill👋
 
-- 🔭 I'm currently working with React.js and ASP.NET.
+- 🔭 I'm currently working with React.js, ASP.NET and C++ for my job.
 - ⚡ Fun fact: I like running and weight lifting.
 
 ### ⚙️ &nbsp; GitHub Analytics
